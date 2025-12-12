@@ -1,1 +1,93 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+body {
+    background-color: #233142;
+    color: #e3e3e3;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    background-color:  #455d7a;
+    padding: 30px;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+p {
+   
+    font-size: 0.95rem;
+    color: #e3e3e3;
+}
+
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: none;
+    font-size: 1rem;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 15px;
+    background-color: #f95959;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:  #f95959;
+}
+
+.result {
+    margin-top: 25px;
+    padding: 15px;
+    background-color:  #233142;
+    border: 1px solid #1e293b;
+    border-radius: 8px;
+}
+
+.result h2 {
+    margin-top: 0;
+    font-size: 1.1rem;
+}
+
+.result p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+#analysis {
+    display: none;
+}
+
+.container > p {
+    text-align: center;
+}
+.analysis-content {
+    text-align: left;
+}
+
+.analysis-content p {
+    text-align: left;
+    margin: 6px 0;
+}
