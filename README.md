@@ -3,7 +3,7 @@ A web-based cyber security education application designed to help students under
 The application analyses password strength in real time and provides educational feedback on how weak passwords are exploited and how data breaches occur.
 
 🚀 Live Demo
-👉 https://yourusername.github.io/password-strength-lab
+👉 https://heidimc2.github.io/password-strength-lab/
 
 💻 Technologies Used
 HTML – structure
