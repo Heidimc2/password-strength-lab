@@ -1,4 +1,19 @@
-# password-strength-lab
-A cyber safety education web application designed specifically for Year 9 students to help them understand how passwords work, why weak passwords are dangerous, and how cyber attacks such as data breaches happen.
+🔐 Password Strength & Breach Awareness Lab
+A web-based cyber security education application designed to help students understand password security, common attack methods and best practices for creating strong passwords.
+The application analyses password strength in real time and provides educational feedback on how weak passwords are exploited and how data breaches occur.
 
-The application provides simple, age-appropriate explanations of cyber security concepts using interactive examples.
+🚀 Live Demo
+👉 https://yourusername.github.io/password-strength-lab
+
+💻 Technologies Used
+HTML – structure
+CSS – layout and styling
+JavaScript – password analysis logic
+GitHub Pages – hosting and deployment
+
+⚠️ Disclaimer
+This application is for educational and awareness purposes only.
+It does not:
+- Hack accounts
+- Store passwords
+- Perform real cyber attacks
